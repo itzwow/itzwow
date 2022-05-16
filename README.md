@@ -5,7 +5,9 @@
 - 📫 How to reach me ...
 - you can reach me via twitter - @itzyourab
 
-    
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=itzwow&show_icons=true&theme=tokyonight" 
-/>
+<p align="center">    
+    <img src="https://github-readme-stats.vercel.app/api?username=itzwow&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzwow&theme=tokyonight"/>
+ 
+</p>
+  
