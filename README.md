@@ -35,7 +35,7 @@
 
 
 <h2 align="center">My Github Stats </h2>
-<p align="center">    
+<p align="left">    
     <img src="https://github-readme-stats.vercel.app/api?username=itzwow&show_icons=true&theme=tokyonight" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzwow&theme=tokyonight"/> <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzwow&layout=compact&theme=tokyonight" />
