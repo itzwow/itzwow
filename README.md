@@ -1,4 +1,5 @@
-<img alt="banner" src="https://jusmarktech.com/public/a/images/pages/web_development.gif">
+<!-- <img alt="banner" src="https://jusmarktech.com/public/a/images/pages/web_development.gif"> -->
+[![@amitbera's Holopin board](https://holopin.me/amitbera)](https://holopin.io/@amitbera)
 
 <h1 align="Center"> Hi! 👋 Friends, I’m Amit <h1/>
 <h3 align="center">A passionate frontend developer & Open Source Enthusiast from India 🇮🇳</h3>
